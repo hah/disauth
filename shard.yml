@@ -1,0 +1,9 @@
+name: disauth
+version: 0.1.0
+
+authors:
+  - gyula <isnt@gyula.cool>
+
+crystal: 0.32.1
+
+license: MIT
